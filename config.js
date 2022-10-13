@@ -67,7 +67,7 @@ global.ppulsa2 = '6285857537269' // kalau ada kartu lain isi aja
 global.psaweria = 'https://Lets-To-Web-Gilzz.agilganzz1.repl.co'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6285763172598'
+global.nomorbot = '6281558520274'
 global.nomorown = '6285857537269'
 global.namebot = 'Gilzz-BOTZ'
 global.nameown = 'Gilzz'
